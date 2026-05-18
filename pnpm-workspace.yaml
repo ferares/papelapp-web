@@ -1,2 +1,3 @@
-onlyBuiltDependencies:
-  - esbuild
+blockExoticSubdeps: true
+minimumReleaseAge: 10080
+minimumReleaseAgeExclude:
