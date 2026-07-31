@@ -1,11 +1,15 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "uy.ares.papelapp.twa",
-      "sha256_cert_fingerprints":
-        ["BE:87:E0:D6:38:70:01:63:63:64:84:43:B4:17:D2:A3:A0:B4:3D:F8:EC:89:69:04:4C:F8:A3:CE:A2:35:17:EB"]
+      "sha256_cert_fingerprints": [
+        "BE:87:E0:D6:38:70:01:63:63:64:84:43:B4:17:D2:A3:A0:B4:3D:F8:EC:89:69:04:4C:F8:A3:CE:A2:35:17:EB",
+        "A9:52:F6:FC:73:BE:C1:3F:9D:1C:5B:99:0A:8E:6D:73:0C:98:29:49:20:06:DC:13:3B:F2:92:F1:5E:B8:28:7C"
+      ]
     }
   }
 ]
